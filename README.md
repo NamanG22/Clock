@@ -7,7 +7,6 @@ This is a solution to the [2nd Day Challenge in 30 Days JavaScript Challenge](ht
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -26,11 +25,6 @@ Users should be able to:
 
 ![](Screenshot_31-3-2024_213812_127.0.0.1.jpeg)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 
 ### Built with
@@ -47,13 +41,13 @@ Users should be able to:
   transition-timing-function: cubic-bezier(0.1,2.7,0.58,1);
 }
 ```
+Typical Transition functions in CSS.
 ```js
 const date = new Date();
 const hours = date.getHours();
 const minutes = date.getMinutes();
 const seconds = date.getSeconds();
 ```
-Typical Transition functions in CSS.
 How to get real date and time using javascript.
 
 ## Author
